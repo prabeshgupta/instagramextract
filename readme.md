@@ -46,7 +46,7 @@ pip install instaloader pillow pytesseract pandas
 ### 1. Clone or Download the Script
 Download the script to your local machine.
 
-### 3. Set Instagram Username
+### 2. Set Instagram Username
 
 Update the `instagram_username` in the script that you want to download posts from:
 
